@@ -37,5 +37,5 @@ function selectDifferentDrivers(drivers, driverFunction) {
 
 //Broken down - array of drivers (which is also used in the top two functions) and argument which is a function. 
 //So we are passing through the function from the top two (returnFirst or returnLast) 
-//depending on which one will return drivers from that (which is also the first parameter for this select function)
+//depending on which one will return drivers from that (which is also the first parameter for this select function) and its function (slice)
 //need more practice with this one, alot of research was done and too much time spent
